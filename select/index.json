@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ラブソング",
+  "base_artist": "PompadollS",
+  "createdAt": "2025-12-17T12:37:36.343392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パンチドランク・ラブソング",
+      "artist": "Sunny Day Service",
+      "has_synced": true,
+      "path": "select/01_パンチドランク・ラブソング_Sunny_Day_Service.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラブソング - cover",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_ラブソング_-_cover_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブソング (feat. Eve)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_ラブソング_(feat._Eve)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ディス・イズ・ラブソング",
+      "artist": "Utsu-P",
+      "has_synced": false,
+      "path": "select/04_ディス・イズ・ラブソング_Utsu-P.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ディス・イズ・ラブソング",
+      "artist": "鬱P feat. GUMI",
+      "has_synced": false,
+      "path": "select/05_ディス・イズ・ラブソング_鬱P_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ディス・イズ・ラブソング",
+      "artist": "鬱P",
+      "has_synced": false,
+      "path": "select/06_ディス・イズ・ラブソング_鬱P.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/07_ラブソング_Sambomaster.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/08_ラブソング_サンボマスター.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/09_ラブソング_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/10_ラブソング_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラブソング - cover",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/11_ラブソング_-_cover_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/12_ラブソング_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "旦那様とのラブラブ・ラブソング",
+      "artist": "フェンリース(CV:釘宮理恵)",
+      "has_synced": true,
+      "path": "select/13_旦那様とのラブラブ・ラブソング_フェンリース(CV_釘宮理恵).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/14_ラブソング_なとり.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/15_ラブソング_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "マルシィ",
+      "has_synced": true,
+      "path": "select/16_ラブソング_マルシィ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "キタニタツヤ feat. Eve",
+      "has_synced": true,
+      "path": "select/17_ラブソング_キタニタツヤ_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ラブソング",
+      "artist": "Kitani, Tatsuya feat. Eve",
+      "has_synced": true,
+      "path": "select/18_ラブソング_Kitani,_Tatsuya_feat._Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブソング",
+      "artist": "PompadollS",
+      "has_synced": false,
+      "path": "select/pl_01_ラブソング_PompadollS.txt"
+    }
+  ]
+}
